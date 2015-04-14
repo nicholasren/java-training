@@ -13,14 +13,14 @@ public class TypeExample {
     private static List<Shape> shapes = Arrays.asList(new Circle(1), new Square(1, 2));
 
     public static void main(String[] args) {
-//        runtime_type_info();
+//        polymorphism();
+        runtime_type_info();
 //        polymorphism();
         runtime_annotation_info();
     }
 
 
     private static void polymorphism() {
-
         for (Shape shape : shapes) {
             shape.draw();
         }
@@ -29,11 +29,7 @@ public class TypeExample {
     private static void runtime_type_info() {
         for (Shape shape : shapes) {
             if (shape.getClass().getSimpleName().equals("Square")) {
-                System.out.println("==========================================");
-                System.out.print("|");
                 shape.draw();
-                System.out.println("|");
-                System.out.println("==========================================");
             } else {
                 shape.draw();
                 System.out.println("");
@@ -44,7 +40,7 @@ public class TypeExample {
     private static void runtime_annotation_info() {
         for (Shape shape : shapes) {
             shape.draw();
-            System.out.println("with " + tool_for(shape).value());
+            System.out.println("via " + tool_for(shape).value());
         }
     }
 

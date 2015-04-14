@@ -1,5 +1,6 @@
 package com.thoughtworks.generic;
 
+import com.thoughtworks.type.clazz.Drawable;
 import com.thoughtworks.type.clazz.Shape;
 
 import java.util.ArrayList;
@@ -19,6 +20,7 @@ public class GenericExample {
         //true or false?
         System.out.println(c1 == c2);
     }
+
 }
 
 
@@ -60,6 +62,3 @@ class MyGenericList<T> {
         return els.get(idx);
     }
 }
-
-//type erase
-
