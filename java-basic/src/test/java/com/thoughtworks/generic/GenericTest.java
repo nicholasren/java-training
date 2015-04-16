@@ -34,7 +34,7 @@ public class GenericTest {
 
         intList.add(1);
         shapeList.add(circle);
-        // shapeList.add(1); //compile failed
+//        shapeList.add(1); //compile failed
 
         assertThat(intList.get(0), is(1));
         assertThat(shapeList.get(0), is(circle));

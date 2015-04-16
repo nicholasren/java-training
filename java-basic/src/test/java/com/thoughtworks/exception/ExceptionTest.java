@@ -12,7 +12,7 @@ public class ExceptionTest {
         try {
             withCheckedException();
         } catch (CheckedException e) {
-            e.printStackTrace();
+//            e.printStackTrace();
         }
     }
 

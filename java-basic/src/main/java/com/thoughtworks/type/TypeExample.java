@@ -14,8 +14,7 @@ public class TypeExample {
 
     public static void main(String[] args) {
 //        polymorphism();
-        runtime_type_info();
-//        polymorphism();
+//        runtime_type_info();
         runtime_annotation_info();
     }
 
@@ -30,6 +29,7 @@ public class TypeExample {
         for (Shape shape : shapes) {
             if (shape.getClass().getSimpleName().equals("Square")) {
                 shape.draw();
+                System.out.println("a square");
             } else {
                 shape.draw();
                 System.out.println("");

@@ -26,15 +26,14 @@ public class ListExampleTest {
 
     @Test
     public void supported_operations() {
-        assertThat(xs.size(), is(__));
+        assertThat(xs.size(), is(0));
         xs.add("1");
-        assertThat(xs.get(0), is(__));
-        assertThat(xs.size(), is(__));
-        assertThat(xs.contains("1"), is(__));
-        assertThat(xs.indexOf("1"), is(__));
-        assertThat(xs.indexOf("1"), is(__));
+        assertThat(xs.get(0), is("1"));
+        assertThat(xs.size(), is(1));
+        assertThat(xs.contains("1"), is(true));
+        assertThat(xs.indexOf("1"), is(0));
         xs.remove("1");
-        assertThat(xs.size(), is(__));
+        assertThat(xs.size(), is(0));
 
     }
 
@@ -42,7 +41,7 @@ public class ListExampleTest {
     @Test
     public void type_safe() {
         //won't compile
-        //xs.add(1);
+//        xs.add(1);
     }
 
 

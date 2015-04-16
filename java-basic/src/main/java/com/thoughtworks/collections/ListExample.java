@@ -9,11 +9,21 @@ public class ListExample {
 
     public static List<String> long_words(String[] words) {
 
-        return new ArrayList<>(0);
+        ArrayList<String> strings = new ArrayList<>(0);
+        for (String word : words) {
+            if (word.length()>4)
+                strings.add(word);
+        }
+        return strings;
     }
 
     public static List<Integer> word_length(String[] words) {
-        return new ArrayList<>(0);
+        ArrayList<Integer> length = new ArrayList<>(0);
+        for (String word : words) {
+             length.add(word.length());
+        }
+        return length;
+
     }
 
     public static Integer sum(List<Integer> nums) {
