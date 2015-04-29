@@ -36,7 +36,7 @@ class Pusher {
             HttpEntity entity = new StringEntity(json);
             post.setEntity(entity);
 
-            httpclient.execute(post);
+            this.httpclient.execute(post);
         } catch (Exception e) {
             e.printStackTrace();
         }
