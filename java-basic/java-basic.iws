@@ -67,7 +67,7 @@
       <file leaf-file-name="Tool.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/annotation/Tool.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.17454545" vertical-offset="0" max-vertical-offset="550">
+            <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.13150685" vertical-offset="0" max-vertical-offset="730">
               <folding />
             </state>
           </provider>
@@ -76,7 +76,7 @@
       <file leaf-file-name="ElementType.java" pinned="false" current="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="4" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="2256">
+            <state line="74" column="4" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="1776" max-vertical-offset="2808">
               <folding />
             </state>
           </provider>
@@ -85,7 +85,7 @@
       <file leaf-file-name="ListExampleTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collections/ListExampleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="16" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="839" max-vertical-offset="1416">
+            <state line="53" column="16" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="1656">
               <folding />
             </state>
           </provider>
@@ -103,7 +103,7 @@
       <file leaf-file-name="ListExample.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collections/ListExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="28" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.0" vertical-offset="1068" max-vertical-offset="1632">
+            <state line="61" column="28" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.0" vertical-offset="1464" max-vertical-offset="1704">
               <folding />
             </state>
           </provider>
@@ -112,7 +112,7 @@
       <file leaf-file-name="ExceptionTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/exception/ExceptionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="59" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="439" max-vertical-offset="912">
+            <state line="26" column="59" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="960">
               <folding />
             </state>
           </provider>
@@ -121,7 +121,7 @@
       <file leaf-file-name="TypeExample.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/TypeExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="39" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1248">
+            <state line="47" column="39" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0" vertical-offset="1128" max-vertical-offset="1392">
               <folding />
             </state>
           </provider>
@@ -130,7 +130,7 @@
       <file leaf-file-name="GenericTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/generic/GenericTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="16" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="646" max-vertical-offset="1200">
+            <state line="43" column="16" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="1032" max-vertical-offset="1344">
               <folding />
             </state>
           </provider>
@@ -139,7 +139,7 @@
       <file leaf-file-name="Circle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="10" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="552">
+            <state line="4" column="10" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="552">
               <folding />
             </state>
           </provider>
@@ -148,7 +148,7 @@
       <file leaf-file-name="ExceptionExample.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exception/ExceptionExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="59" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
+            <state line="12" column="59" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="504">
               <folding />
             </state>
           </provider>
@@ -193,9 +193,9 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="203" />
-    <option name="width" value="1280" />
-    <option name="height" value="693" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -374,8 +374,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -746,21 +746,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -778,6 +763,21 @@
       <option name="NETWORK_LATENCY" value="none" />
       <option name="CLEAR_LOGCAT" value="false" />
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
       <method />
     </configuration>
     <list size="5">
@@ -825,14 +825,15 @@
       <workItem from="1428671773862" duration="270000" />
       <workItem from="1429006617840" duration="3228000" />
       <workItem from="1429146525208" duration="6947000" />
+      <workItem from="1429191116965" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23360000" />
+    <option name="totallyTimeSpent" value="23411000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="203" width="1280" height="693" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -849,15 +850,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25605816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2267525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27438018" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3290653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -878,8 +879,8 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32839963" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25605816" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27438018" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -907,25 +908,89 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/generic/GenericExample.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/annotation/Tool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="1" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="975">
+        <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="360">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="4" selection-start="2651" selection-end="2651" vertical-scroll-proportion="0.0" vertical-offset="1776" max-vertical-offset="2808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collections/ListExampleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="16" selection-start="1252" selection-end="1252" vertical-scroll-proportion="0.0" vertical-offset="1272" max-vertical-offset="1656">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="23" selection-start="214" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="600">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collections/ListExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="28" selection-start="1715" selection-end="1715" vertical-scroll-proportion="0.0" vertical-offset="1464" max-vertical-offset="1704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/exception/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="59" selection-start="627" selection-end="627" vertical-scroll-proportion="0.0" vertical-offset="624" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/TypeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="39" selection-start="1276" selection-end="1276" vertical-scroll-proportion="0.0" vertical-offset="1128" max-vertical-offset="1392">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/generic/GenericTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="16" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="1032" max-vertical-offset="1344">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="552">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/exception/ExceptionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="59" selection-start="363" selection-end="363" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="504">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/generic/GenericExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="1" selection-start="1197" selection-end="1197" vertical-scroll-proportion="0.0" vertical-offset="945" max-vertical-offset="975" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="47" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="2" column="47" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Drawable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165">
-          <folding />
-        </state>
+        <state line="3" column="23" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="165" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
@@ -1005,48 +1070,32 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/lang/annotation/RetentionPolicy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="12" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <element signature="e#0#1106#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="36" column="12" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collections/MapExampleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="4" selection-start="734" selection-end="827" vertical-scroll-proportion="0.4131054" vertical-offset="0" max-vertical-offset="1053">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="29" column="4" selection-start="734" selection-end="827" vertical-scroll-proportion="0.4131054" vertical-offset="0" max-vertical-offset="1053" />
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-all/1.3/47e033b7ab18c5dbd5fe29fc1bd5a40afe028818/hamcrest-all-1.3-sources.jar!/org/hamcrest/core/Is.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="26" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.5726496" vertical-offset="447" max-vertical-offset="1500">
-          <folding />
-        </state>
+        <state line="76" column="26" selection-start="2126" selection-end="2126" vertical-scroll-proportion="0.5726496" vertical-offset="447" max-vertical-offset="1500" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/collections/MapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
+        <state line="11" column="5" selection-start="287" selection-end="287" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Drawable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="89" selection-end="89" vertical-scroll-proportion="0.05944518" vertical-offset="0" max-vertical-offset="757">
-          <folding />
-        </state>
+        <state line="3" column="23" selection-start="89" selection-end="89" vertical-scroll-proportion="0.05944518" vertical-offset="0" max-vertical-offset="757" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="56" selection-start="4281" selection-end="4281" vertical-scroll-proportion="0.0" vertical-offset="1956" max-vertical-offset="16128">
-          <folding />
-        </state>
+        <state line="110" column="56" selection-start="4281" selection-end="4281" vertical-scroll-proportion="0.0" vertical-offset="1956" max-vertical-offset="16128" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/thoughtworks/collections/ListExampleTest.java">
@@ -1086,9 +1135,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/clazz/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="22" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384">
-          <folding />
-        </state>
+        <state line="2" column="22" selection-start="60" selection-end="60" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="384" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/TypeExample.java">
@@ -1107,9 +1154,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/generic/GenericExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="23" selection-start="205" selection-end="205" vertical-scroll-proportion="-1.5595667" vertical-offset="984" max-vertical-offset="1560">
-          <folding />
-        </state>
+        <state line="9" column="23" selection-start="205" selection-end="205" vertical-scroll-proportion="-1.5595667" vertical-offset="984" max-vertical-offset="1560" />
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
@@ -1128,7 +1173,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/thoughtworks/type/annotation/Tool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.17454545" vertical-offset="0" max-vertical-offset="550">
+        <state line="7" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.13150685" vertical-offset="0" max-vertical-offset="730">
           <folding />
         </state>
       </provider>
